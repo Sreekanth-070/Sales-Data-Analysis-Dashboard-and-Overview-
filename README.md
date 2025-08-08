@@ -11,15 +11,15 @@ Power BI dashboard for Electro Hub analyzing sales, profit, discounts, orders, a
 **Tech Stack Used :**
 The dashboard was built using the following tools and technologies:
 
-•⁠  ⁠ Power BI Desktop - Main data visualization platform used for report creation.
+•⁠  ⁠**Power BI Desktop** - Main data visualization platform used for report creation.
 
-•⁠  ⁠ Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+•⁠  ⁠**Power Query** - Data transformation and cleaning layer for reshaping and preparing the data.
 
-•⁠  ⁠ DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
+•⁠  **⁠ DAX (Data Analysis Expressions)** - Used for calculated measures, dynamic visuals, and conditional logic.
 
-•⁠  ⁠ Data Modeling - Relationships established among tables (reports).
+•⁠  ⁠**Data Modeling** - Relationships established among tables (reports).
 
-•⁠  ⁠ File Format - pbix for development and png for dashboard previews.
+•⁠  **File Format** - pbix for development and png for dashboard previews.
 
 **Data Source:**
 https://www.kaggle.com/datasets
