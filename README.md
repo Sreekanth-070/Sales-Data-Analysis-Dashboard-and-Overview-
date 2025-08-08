@@ -39,3 +39,7 @@ Let's discuss the key questions that the Power BI report Says:
     - Provide visual filters to enable users to filter data by these fields.
 8. **Show Sales by Geography**
     - Show sales values by different geographical settings such as  different cities.
+
+
+**Demo / Screenshot:**
+https://github.com/Sreekanth-070/Sales-Data-Analysis-Dashboard-and-Overview-/blob/main/Sales%20Dashboard.jpeg
