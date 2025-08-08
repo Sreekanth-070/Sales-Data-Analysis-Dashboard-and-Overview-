@@ -29,13 +29,13 @@ Let's discuss the key questions that the Power BI report Says:
     - Analyze whether an increase in sales corresponds to an increase in profit, and vice versa.
 4. **Comparison Between Two User-Selected Periods**
     - Allow users to compare sales, profit, and quantity sold between any two selected dates.
- **5. Average Discount Offered in Each Discount Category**
+5. **Average Discount Offered in Each Discount Category**
     - Create a visual to show the average discount offered for different discount categories.
     - Discount categories could be based on festivals, New Year, weekends, or other occasions.
- **6. Total Number of Orders**
+6. **Total Number of Orders**
     - Display the total number of orders in the report.
- **7. Detailed Sales Data with Visual Filters**
+7. **Detailed Sales Data with Visual Filters**
     - Show sales, profit, discount, net sales, and other relevant fields for each order.
     - Provide visual filters to enable users to filter data by these fields.
- **8. Show Sales by Geography**
+8. **Show Sales by Geography**
     - Show sales values by different geographical settings such as  different cities.
