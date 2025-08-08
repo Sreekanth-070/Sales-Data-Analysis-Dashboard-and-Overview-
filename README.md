@@ -1,8 +1,8 @@
 # Sales-Data-Analysis-Dashboard-Using-PowerBI:
 
 **Project Title:**
-**Sales Data Analysis Project Using PowerBI
-**
+Sales Data Analysis Project Using PowerBI :
+
 An interactive Power BI dashboard for **Electro Hub**, providing insights into top/bottom products, sales trends, profit analysis, discounts, orders, and geographical performance.
 
 **Purpose:**
