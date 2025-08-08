@@ -51,4 +51,5 @@ Let's discuss the key questions that the Power BI report Says:
 
 
 **Demo / Screenshot:**
-https://github.com/Sreekanth-070/Sales-Data-Analysis-Dashboard-and-Overview-/blob/main/Sales%20Dashboard.jpeg
+
+Example: ![Dashboard Preview](https://github.com/Sreekanth-070/Sales-Data-Analysis-Dashboard-and-Overview-/blob/main/Sales%20Dashboard.jpeg)
